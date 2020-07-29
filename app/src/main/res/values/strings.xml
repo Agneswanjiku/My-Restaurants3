@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">My Restaurants</string>
+    <string name="app_name" translatable="false">My Restaurants</string>
+    <string-array name="restaurants">
+        <item>ScreenDoor</item>
+        <item>luc lac</item>
+        <item>Sweet Basil</item>
+        <item>Slapy Cake</item>
+        <item>Equinox</item>
+        <item>Andina</item>
+        <item>lardo</item>
+        <item>carpko</item>
+
+    </string-array>
 </resources>
